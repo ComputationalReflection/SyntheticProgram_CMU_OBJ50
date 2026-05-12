@@ -1,0 +1,6 @@
+CMU-OBJ50;OBJ_50_Noncompliant.java;33;VARIABLE_DEC;VARIABLE_DEC es.uniovi.reflection.obj_50.MutableMethodsSimpleList<java.lang.Integer> integerListVar
+CMU-OBJ50;OBJ_50_Noncompliant.java;22;VARIABLE_DEC;VARIABLE_DEC es.uniovi.reflection.obj_50.MutableMethodsSimpleList<java.lang.String> stringListVar
+CMU-OBJ50;OBJ_50_Noncompliant.java;38;VARIABLE_DEC;VARIABLE_DEC es.uniovi.reflection.obj_50.noncompliant.MutableE e
+CMU-OBJ50;OBJ_50_Noncompliant.java;25;VARIABLE_DEC;VARIABLE_DEC es.uniovi.reflection.obj_50.noncompliant.MutableE instanceE
+CMU-OBJ50;OBJ_50_Noncompliant.java;42;VARIABLE_DEC;VARIABLE_DEC es.uniovi.reflection.obj_50.noncompliant.OBJ_50_Noncompliant obj
+CMU-OBJ50;OBJ_50_Noncompliant.java;23;VARIABLE_DEC;VARIABLE_DEC int[] intArrayVar
